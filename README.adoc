@@ -1,0 +1,23 @@
+= Julekalender lavet med p5.js
+
+Ideen med dette repo er at lave 24 sider med p5.js.
+
+== 1. December
+
+link:december_01/index.html[Åben lågen]
+
+> Her skal vi se ...
+>
+
+== p5.js
+
+- https://p5js.org/
+- https://github.com/processing/p5.js
+
+== Getting Started with P5.js in Visual Studio Code
+
+- https://arnauld-alex.com/getting-started-with-p5js-in-visual-studio-code
+
+== Learn p5.js in 5 minutes
+
+- https://learnxinyminutes.com/p5/
